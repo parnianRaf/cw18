@@ -1,0 +1,38 @@
+﻿@model List<ProvinceMemberList>
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                Id
+            </th>
+            <th>
+                ProvinceName
+            </th>
+            <th>
+                Members
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(ProvinceMemberList member in Model)
+{
+                <tr>
+                    <td>
+                        @member.Id
+                    </td>
+                    <td>
+                        @member.Name
+                    </td>
+                    <table>
+                        <tbody>
+                            @foreach(string fullName in member.listMemberName )
+{
+                                    <td>@fullName</td>
+}
+                        </tbody>
+                    </table>
+                </tr>
+}
+    </tbody>
+</table>

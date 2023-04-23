@@ -1,0 +1,17 @@
+/Users/parnianrafei/Projects/cw18_1/repButton/obj/Debug/net7.0/repButton.csproj.AssemblyReference.cache
+/Users/parnianrafei/Projects/cw18_1/repButton/obj/Debug/net7.0/repButton.GeneratedMSBuildEditorConfig.editorconfig
+/Users/parnianrafei/Projects/cw18_1/repButton/obj/Debug/net7.0/repButton.AssemblyInfoInputs.cache
+/Users/parnianrafei/Projects/cw18_1/repButton/obj/Debug/net7.0/repButton.AssemblyInfo.cs
+/Users/parnianrafei/Projects/cw18_1/repButton/obj/Debug/net7.0/repButton.csproj.CoreCompileInputs.cache
+/Users/parnianrafei/Projects/cw18_1/repButton/bin/Debug/net7.0/repButton.deps.json
+/Users/parnianrafei/Projects/cw18_1/repButton/bin/Debug/net7.0/repButton.dll
+/Users/parnianrafei/Projects/cw18_1/repButton/bin/Debug/net7.0/repButton.pdb
+/Users/parnianrafei/Projects/cw18_1/repButton/bin/Debug/net7.0/AppCore.dll
+/Users/parnianrafei/Projects/cw18_1/repButton/bin/Debug/net7.0/SqlDataBase.dll
+/Users/parnianrafei/Projects/cw18_1/repButton/bin/Debug/net7.0/SqlDataBase.pdb
+/Users/parnianrafei/Projects/cw18_1/repButton/bin/Debug/net7.0/AppCore.pdb
+/Users/parnianrafei/Projects/cw18_1/repButton/obj/Debug/net7.0/repButton.csproj.CopyComplete
+/Users/parnianrafei/Projects/cw18_1/repButton/obj/Debug/net7.0/repButton.dll
+/Users/parnianrafei/Projects/cw18_1/repButton/obj/Debug/net7.0/refint/repButton.dll
+/Users/parnianrafei/Projects/cw18_1/repButton/obj/Debug/net7.0/repButton.pdb
+/Users/parnianrafei/Projects/cw18_1/repButton/obj/Debug/net7.0/ref/repButton.dll

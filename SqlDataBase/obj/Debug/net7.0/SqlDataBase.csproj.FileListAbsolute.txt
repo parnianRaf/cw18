@@ -1,0 +1,17 @@
+/Users/parnianrafei/Projects/cw18_1/SqlDataBase/bin/Debug/net7.0/SqlDataBase.deps.json
+/Users/parnianrafei/Projects/cw18_1/SqlDataBase/bin/Debug/net7.0/SqlDataBase.runtimeconfig.json
+/Users/parnianrafei/Projects/cw18_1/SqlDataBase/bin/Debug/net7.0/SqlDataBase.dll
+/Users/parnianrafei/Projects/cw18_1/SqlDataBase/bin/Debug/net7.0/SqlDataBase.pdb
+/Users/parnianrafei/Projects/cw18_1/SqlDataBase/bin/Debug/net7.0/AppCore.dll
+/Users/parnianrafei/Projects/cw18_1/SqlDataBase/bin/Debug/net7.0/AppCore.pdb
+/Users/parnianrafei/Projects/cw18_1/SqlDataBase/obj/Debug/net7.0/SqlDataBase.csproj.AssemblyReference.cache
+/Users/parnianrafei/Projects/cw18_1/SqlDataBase/obj/Debug/net7.0/SqlDataBase.GeneratedMSBuildEditorConfig.editorconfig
+/Users/parnianrafei/Projects/cw18_1/SqlDataBase/obj/Debug/net7.0/SqlDataBase.AssemblyInfoInputs.cache
+/Users/parnianrafei/Projects/cw18_1/SqlDataBase/obj/Debug/net7.0/SqlDataBase.AssemblyInfo.cs
+/Users/parnianrafei/Projects/cw18_1/SqlDataBase/obj/Debug/net7.0/SqlDataBase.csproj.CoreCompileInputs.cache
+/Users/parnianrafei/Projects/cw18_1/SqlDataBase/obj/Debug/net7.0/SqlDataBase.csproj.CopyComplete
+/Users/parnianrafei/Projects/cw18_1/SqlDataBase/obj/Debug/net7.0/SqlDataBase.dll
+/Users/parnianrafei/Projects/cw18_1/SqlDataBase/obj/Debug/net7.0/refint/SqlDataBase.dll
+/Users/parnianrafei/Projects/cw18_1/SqlDataBase/obj/Debug/net7.0/SqlDataBase.pdb
+/Users/parnianrafei/Projects/cw18_1/SqlDataBase/obj/Debug/net7.0/SqlDataBase.genruntimeconfig.cache
+/Users/parnianrafei/Projects/cw18_1/SqlDataBase/obj/Debug/net7.0/ref/SqlDataBase.dll
